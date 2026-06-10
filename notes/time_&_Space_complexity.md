@@ -23,4 +23,9 @@ for(int i = 0; i<= 5; i++){
     + TC to be calculated in terms of worst case scenario
     + avoid constants(no. of ops in single itretion)
     + avoid lowwer values
+
+
+# Space Complexity -> memory space
+
+it is = Auxiliary space(space taken to solve the problem) + Input space(space to store the input)
     
